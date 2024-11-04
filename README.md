@@ -1,4 +1,3 @@
-Sentiment Analysis on Social Media Posts with BERT
 This repository contains code for a sentiment analysis project using BERT, 
 fine-tuned on a custom dataset of social media posts about emerging technology.
 The model classifies text into three categories: positive, neutral, and negative sentiment.
